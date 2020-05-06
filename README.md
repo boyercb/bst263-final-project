@@ -21,7 +21,7 @@ We will first split the CT image dataset into a training dataset (80%) and a tes
 The researchers at University of California, San Diego (UCSD) had already utilized this COVID-CT datasets to construct two neural network models for us to benchmark with. Since this is a relatively small collection of images, they used transfer learning and data augmentation to avoid overfitting and mitigate data inefficiency. Transfer learning was based on the network trained in ChestX-ray14 [3] dataset released by NIH, and then fine tuned on the COVID-19 dataset. The second network model utilized data augmentation to mitigate data efficiency: by creating new image-label pairs and adding the synthesized pairs into the training set. Data augmentation includes random affine transformation, random crop and random flip. Two methods had reached accuracy of 84% and 91%, respectively.
  
  
-Reference: 
+## References 
  [1] Ai T, Yang Z et al. Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A report of 1014 cases. Radiology. 0(0). Feb 26, 2020. https://doi.org/10.1148/radiol.2020200642
 
  [2] Li L, Qin L et al. Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT. Radiology.0(0). Mar 19, 2020. https://doi.org/10.1148/radiol.2020200905
