@@ -22,6 +22,8 @@ The researchers at University of California, San Diego (UCSD) had already utiliz
  
  
 Reference: 
-[1] Ai T, Yang Z et al. Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A report of 1014 cases. Radiology. 0(0). Feb 26, 2020. https://doi.org/10.1148/radiol.2020200642
-[2] Li L, Qin L et al. Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT. Radiology.0(0). Mar 19, 2020. https://doi.org/10.1148/radiol.2020200905
-[3] Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, Mohammadhadi Bagheri, and Ronald M Summers. Chestx-ray8: Hospital-scale chest x-ray database and benchmarks on weaklysupervised classification and localization of common thorax diseases. In Proceedings of the IEEE conference on computer vision and pattern recognition, pages 2097–2106, 2017
+ [1] Ai T, Yang Z et al. Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A report of 1014 cases. Radiology. 0(0). Feb 26, 2020. https://doi.org/10.1148/radiol.2020200642
+
+ [2] Li L, Qin L et al. Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT. Radiology.0(0). Mar 19, 2020. https://doi.org/10.1148/radiol.2020200905
+ 
+ [3] Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, Mohammadhadi Bagheri, and Ronald M Summers. Chestx-ray8: Hospital-scale chest x-ray database and benchmarks on weaklysupervised classification and localization of common thorax diseases. In Proceedings of the IEEE conference on computer vision and pattern recognition, pages 2097–2106, 2017
