@@ -3,7 +3,7 @@ The following is our submission for our final project for Spring 2020 BST263 Sta
 
 Authors: 
   - Christopher Boyer
-  - Chloe Hue
+  - Chloe He
   - Wenze Tang
   - Ruibin Wang
   
