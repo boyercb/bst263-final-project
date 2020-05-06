@@ -1,6 +1,12 @@
 # Classifying CT Scans for COVID-19
 The following is our submission for our final project for Spring 2020 BST263 Statistical Learning course.
 
+Authors: 
+  - Christopher Boyer
+  - Chloe Hue
+  - Wenze Tang
+  - Ruibin Wang
+  
 ## Background
 Chest computerized tomography (CT) has been used in a few countries as a preliminary diagnostic tool for COVID-19 where availability of reverse transcription polymerase chain reaction (RT-PCR) tests was limited. However, current CT-based diagnosis is largely based on review of the imaging result by healthcare professionals. Latest study showed that using RT-PCR test as the gold standard, the physician review of chest CT scan has a sensitivity of 97% and specificity of 75%[Ai et al, 2020]. One recent publication utilized a deep learning network (COVID-Net) performed under an enhanced processor to distinguish COVID-19 and community acquired pneumonia patients based solely on their CT scan data. This algorithm achieved higher specificity (96%) but lower sensitivity (90%) than physician review of chest CT images [Li et al, 2020]. 
 
